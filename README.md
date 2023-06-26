@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Do you want to rid of the long and complicated “If Else”](https://alpemre.medium.com/do-you-want-to-rid-of-the-long-and-complicated-if-else-c943b2abfc03?source=rss-e0c32befcc43------2)
+- [Localization Via Ip Address In Laravel](https://alpemre.medium.com/localization-via-ip-address-in-laravel-e3093b33831e?source=rss-e0c32befcc43------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
